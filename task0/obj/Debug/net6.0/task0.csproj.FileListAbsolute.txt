@@ -1,0 +1,15 @@
+D:\программирование\мама\C#2\task0\bin\Debug\net6.0\task0.exe
+D:\программирование\мама\C#2\task0\bin\Debug\net6.0\task0.deps.json
+D:\программирование\мама\C#2\task0\bin\Debug\net6.0\task0.runtimeconfig.json
+D:\программирование\мама\C#2\task0\bin\Debug\net6.0\task0.dll
+D:\программирование\мама\C#2\task0\bin\Debug\net6.0\ref\task0.dll
+D:\программирование\мама\C#2\task0\bin\Debug\net6.0\task0.pdb
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\task0.csproj.AssemblyReference.cache
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\task0.AssemblyInfoInputs.cache
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\task0.AssemblyInfo.cs
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\task0.csproj.CoreCompileInputs.cache
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\task0.dll
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\ref\task0.dll
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\task0.pdb
+D:\программирование\мама\C#2\task0\obj\Debug\net6.0\task0.genruntimeconfig.cache
